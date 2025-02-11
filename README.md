@@ -1,16 +1,176 @@
-## Hi there 👋
+# Hello there, I'm Rodrigo
 
-<!--
-**Rogudev/Rogudev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/Rogudev/Rogudev/blob/main/banner.svg"/>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Nice to meet you, let me introduce myself.
+  <ul>
+    <li>👨‍💻 I'm a <b>web developer</b></li>
+    <li>🌐 Currently learning <b>AI development and Big Data</b></li>
+  </ul>
+Passionate programmer, I am always looking for new challenges.
+</p>
+
+## 🌐 You can find me on :
+<p align="start">
+  <a href="https://www.linkedin.com/in/rogudev/" target="_blank">
+    <img alt="Rogudev LinkedIn profile" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="5%">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp; 
+  <a href="https://rogudev.com/en" target="_blank">
+    <img alt="Rogudev web" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Htmx-Dark.svg" width="5%">
+  </a>
+</p>
+
+
+## 🖥️ My tech skills :
+
+<p align="right">
+  <h3><i>Frontend environment:</i></h3>
+  <table>
+  <tr border: none;>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="48" height="48" alt="HTML5" />
+      </a>
+      <br>HTML
+    </td>	  
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" width="48" height="48" alt="JQuery" />
+      </a>
+      <br>JQuery
+    </td>
+  </tr>
+</table>
+<p>
+  <h3><i>Backend environment:</i></h3>
+  <table>
+  <tr border: none;>
+   <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" width="48" height="48" alt="PHP" />
+      </a>
+      <br>PHP
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png" width="48" height="48" alt="Laravel" />
+      </a>
+      <br>Laravel
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="48" height="48" alt="JAVA" />
+      </a>
+      <br>JAVA
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+  </tr>
+</table>
+</p>
+<p>
+  <h3><i>Cloud Storage:</i></h3>
+  <table>
+  <tr border: none;>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" width="48" height="48" alt="Azure" />
+      </a>
+      <br>Azure
+    </td>	  
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" width="48" height="48" alt="AWS" />
+      </a>
+      <br>AWS
+    </td>
+  </tr>
+</table>
+</p>
+<p>
+  <h3><i>Big Data tools:</i></h3>
+  <table>
+  <tr border: none;>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hadoop.png" width="48" height="48" alt="Hadoop" />
+      </a>
+      <br>Hadoop
+    </td>	  
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png" width="48" height="48" alt="Apache Spark" />
+      </a>
+      <br>Apache Spark
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+  </tr>
+</table>
+</p>
+
+## 🚧 Projects:
+
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Projects</b></td>
+        <td><b>🌐 Deployed</b></td>
+        <td><b>👨‍💻 Language</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+	      <td><a href="https://github.com/iampavangandhi/Gitwar"><b>Critters</b></a></td>
+        <td><a href="https://critters.rogudev.com/" align="center"><b>✅</b></a></td>
+        <td><img alt="Language" src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery" /></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/linitio/docker-apps-collection"><b>Star Wars Cards</b></a></td>
+        <td><a href="https://starwarscards.rogudev.com/" align="center"><b>✅</b></a></td>
+        <td><img alt="Language" src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery,laravel" /></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/linitio/aws-resume"><b>MythAPI</b></a></td>
+        <td><a href="https://mythapi.rogudev.com/" align="center"><b>✅</b></a></td>
+        <td><img alt="Language" src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs" /></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/linitio/linitio"><b>To Do projects list</b></a></td>
+        <td><a href="" align="center"><b>❌</b></a></td>
+        <td><img alt="Language" src="https://skillicons.dev/icons?i=python" /></td>
+      </tr>
+    </tbody>
+  </table>
+
+
+
+#
+
+
+------
+
+Last Edited on: 11/02/2025
