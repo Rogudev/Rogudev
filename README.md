@@ -145,7 +145,7 @@ Passionate programmer, I am always looking for new challenges.
     <tbody>
   <tr align="center">
     <td>
-      <a href="https://github.com/iampavangandhi/Gitwar" target="_blank"><b>Critters</b></a>
+      <a href="https://github.com/Rogudev/critters" target="_blank"><b>Critters</b></a>
     </td>
     <td>
       <a href="https://critters.rogudev.com/" target="_blank"><b>✅</b></a>
