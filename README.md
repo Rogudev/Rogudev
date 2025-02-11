@@ -154,10 +154,10 @@ Passionate programmer, I am always looking for new challenges.
   </tr>
   <tr align="center">
     <td>
-      <a href="https://github.com/linitio/docker-apps-collection" target="_blank"><b>Star Wars Cards</b></a>
+      <a href="https://github.com/Rogudev/Star-Wars-Cards" target="_blank"><b>Star Wars Cards</b></a>
     </td>
     <td>
-      <a href="https://starwarscards.rogudev.com/" target="_blank"><b>✅</b></a>
+      <a href="https://rogudev.github.io/Star-Wars-Cards/" target="_blank"><b>✅</b></a>
     </td>
     <td><img alt="Language" src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery,laravel" /></td>
   </tr>
