@@ -143,28 +143,44 @@ Passionate programmer, I am always looking for new challenges.
       </tr>
     </thead>
     <tbody>
-      <tr>
-	      <td><a href="https://github.com/iampavangandhi/Gitwar"><b>Critters</b></a></td>
-        <td><a href="https://critters.rogudev.com/" align="center"><b>✅</b></a></td>
-        <td><img alt="Language" src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery" /></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/linitio/docker-apps-collection"><b>Star Wars Cards</b></a></td>
-        <td><a href="https://starwarscards.rogudev.com/" align="center"><b>✅</b></a></td>
-        <td><img alt="Language" src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery,laravel" /></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/linitio/aws-resume"><b>MythAPI</b></a></td>
-        <td><a href="https://mythapi.rogudev.com/" align="center"><b>✅</b></a></td>
-        <td><img alt="Language" src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs" /></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/linitio/linitio"><b>To Do projects list</b></a></td>
-        <td><a href="" align="center"><b>❌</b></a></td>
-        <td><img alt="Language" src="https://skillicons.dev/icons?i=python" /></td>
-      </tr>
-    </tbody>
-  </table>
+  <tr align="center">
+    <td>
+      <a href="https://github.com/iampavangandhi/Gitwar" target="_blank"><b>Critters</b></a>
+    </td>
+    <td>
+      <a href="https://critters.rogudev.com/" target="_blank"><b>✅</b></a>
+    </td>
+    <td><img alt="Language" src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery" /></td>
+  </tr>
+  <tr align="center">
+    <td>
+      <a href="https://github.com/linitio/docker-apps-collection" target="_blank"><b>Star Wars Cards</b></a>
+    </td>
+    <td>
+      <a href="https://starwarscards.rogudev.com/" target="_blank"><b>✅</b></a>
+    </td>
+    <td><img alt="Language" src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery,laravel" /></td>
+  </tr>
+  <tr align="center">
+    <td>
+      <a href="https://github.com/linitio/aws-resume" target="_blank"><b>MythAPI</b></a>
+    </td>
+    <td>
+      <a href="https://mythapi.rogudev.com/" target="_blank"><b>✅</b></a>
+    </td>
+    <td><img alt="Language" src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs" /></td>
+  </tr>
+  <tr align="center">
+    <td>
+      <a href="https://github.com/linitio/linitio" target="_blank"><b>To Do projects list</b></a>
+    </td>
+    <td>
+      <p><b>❌</b></p>
+    </td>
+    <td><img alt="Language" src="https://skillicons.dev/icons?i=python" /></td>
+  </tr>
+ </tbody>
+</table>
 
 
 
