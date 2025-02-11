@@ -163,10 +163,10 @@ Passionate programmer, I am always looking for new challenges.
   </tr>
   <tr align="center">
     <td>
-      <a href="https://github.com/linitio/aws-resume" target="_blank"><b>MythAPI</b></a>
+      <a href="https://github.com/Rogudev/MythAPI-API" target="_blank"><b>MythAPI</b></a>
     </td>
     <td>
-      <a href="https://mythapi.rogudev.com/" target="_blank"><b>✅</b></a>
+      <a href="https://rogudev.github.io/MythAPI-web/" target="_blank"><b>✅</b></a>
     </td>
     <td><img alt="Language" src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs" /></td>
   </tr>
