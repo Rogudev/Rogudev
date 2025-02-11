@@ -172,7 +172,7 @@ Passionate programmer, I am always looking for new challenges.
   </tr>
   <tr align="center">
     <td>
-      <a href="https://github.com/linitio/linitio" target="_blank"><b>To Do projects list</b></a>
+      <a href="https://github.com/Rogudev/ToDo-list---Tkinter" target="_blank"><b>To Do projects list</b></a>
     </td>
     <td>
       <p><b>❌</b></p>
