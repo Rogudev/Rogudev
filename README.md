@@ -179,6 +179,15 @@ Passionate programmer, I am always looking for new challenges.
     </td>
     <td><img alt="Language" src="https://skillicons.dev/icons?i=python" /></td>
   </tr>
+  <tr align="center">
+    <td>
+      <a href="https://github.com/Rogudev/ToDo-list---Tkinter" target="_blank"><b>Spark: Azure to MongoDB</b></a>
+    </td>
+    <td>
+      <p><b>❌</b></p>
+    </td>
+    <td><img alt="Language" src="https://skillicons.dev/icons?i=python,azure,mongo" /></td>
+  </tr>
  </tbody>
 </table>
 
