@@ -31,27 +31,19 @@ Passionate programmer, I am always looking for new challenges.
   <table>
   <tr border: none;>
     <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="48" height="48" alt="HTML5" />
-      </a>
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="48" height="48" alt="HTML5" />
       <br>HTML
     </td>	  
     <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="48" height="48" alt="CSS" />
-      </a>
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="48" height="48" alt="CSS" />
       <br>CSS
     </td>
     <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="48" height="48" alt="JavaScript" />
-      </a>
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
     <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" width="48" height="48" alt="JQuery" />
-      </a>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" width="48" height="48" alt="JQuery" />
       <br>JQuery
     </td>
   </tr>
