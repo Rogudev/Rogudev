@@ -76,15 +76,11 @@ Passionate programmer, I am always looking for new challenges.
   <table>
   <tr border: none;>
     <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" width="48" height="48" alt="Azure" />
-      </a>
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" width="48" height="48" alt="Azure" />
       <br>Azure
     </td>	  
     <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" width="48" height="48" alt="AWS" />
-      </a>
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" width="48" height="48" alt="AWS" />
       <br>AWS
     </td>
   </tr>
@@ -95,21 +91,15 @@ Passionate programmer, I am always looking for new challenges.
   <table>
   <tr border: none;>
     <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hadoop.png" width="48" height="48" alt="Hadoop" />
-      </a>
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hadoop.png" width="48" height="48" alt="Hadoop" />
       <br>Hadoop
     </td>	  
     <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png" width="48" height="48" alt="Apache Spark" />
-      </a>
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png" width="48" height="48" alt="Apache Spark" />
       <br>Apache Spark
     </td>
     <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" width="48" height="48" alt="Docker" />
-      </a>
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" width="48" height="48" alt="Docker" />
       <br>Docker
     </td>
   </tr>
