@@ -72,6 +72,21 @@ Passionate programmer, I am always looking for new challenges.
 </table>
 </p>
 <p>
+  <h3><i>Databases:</i></h3>
+  <table>
+  <tr border: none;>
+   <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="48" height="48" alt="PHP" />
+      <br>MySQL
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" width="48" height="48" alt="Laravel" />
+      <br>MongoDB
+    </td>
+  </tr>
+</table>
+</p>
+<p>
   <h3><i>Cloud Storage:</i></h3>
   <table>
   <tr border: none;>
