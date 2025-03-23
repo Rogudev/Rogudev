@@ -181,10 +181,35 @@ Passionate programmer, I am always looking for new challenges.
 </table>
 
 
+## 🛠️ My tools:
 
-#
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Tool name</b></td>
+        <td><b>📃 Language</b></td>
+      </tr>
+    </thead>
+    <tbody>
+  <tr align="center">
+    <td>
+      <a href="https://github.com/Rogudev/tool_env_conda-python_creator" target="_blank"><b>Conda/Python env creator</b></a>
+    </td>
+    <td>
+      <img alt="Language" src="https://skillicons.dev/icons?i=bash" />
+    </td>
+  </tr>
+  
+ </tbody>
+</table>
 
+
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ------
 
-Last Edited on: 22/03/2025
+Last Edited on: 23/03/2025
