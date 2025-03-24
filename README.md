@@ -5,12 +5,12 @@
 <hr>
 
 Nice to meet you, let me introduce myself.
-  <ul>
-    <li>👨‍💻 I'm a <b>web developer</b></li>
-    <li>🌐 Currently learning <b>AI development and Big Data</b></li>
-  </ul>
-Passionate programmer, I am always looking for new challenges.
-</p>
+
+I define myself as a passionate software and technology developer, focused on providing high-quality solutions using my academic background, technical skills and professional experience.
+
+Thanks to my passion for programming, learning, and proactivity, along with my problem-solving ability, quick learning skills, and tolerance for frustration, I consider myself well-prepared for the various challenges in this industry.
+
+Currently im learning **AI development** and **Big Data**, always looking for new challenges.
 
 ## 🌐 You can find me on :
 <p align="start">
