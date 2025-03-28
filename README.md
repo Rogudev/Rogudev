@@ -199,6 +199,14 @@ Currently im learning **AI development** and **Big Data**, always looking for ne
       <img alt="Language" src="https://skillicons.dev/icons?i=bash" />
     </td>
   </tr>
+  <tr align="center">
+    <td>
+      <a href="https://github.com/Rogudev/Tasks-list---Web-version" target="_blank"><b>Task list</b></a>
+    </td>
+    <td>
+      <img alt="Language" src="https://skillicons.dev/icons?i=html,bootstrap,python,js" />
+    </td>
+  </tr>
   
  </tbody>
 </table>
