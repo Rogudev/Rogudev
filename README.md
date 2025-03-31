@@ -207,6 +207,14 @@ Currently im learning **AI development** and **Big Data**, always looking for ne
       <img alt="Language" src="https://skillicons.dev/icons?i=html,bootstrap,python,js" />
     </td>
   </tr>
+  <tr align="center">
+    <td>
+      <a href="https://github.com/Rogudev/Easy-backup-app" target="_blank"><b>Easy backup app</b></a>
+    </td>
+    <td>
+      <img alt="Language" src="https://skillicons.dev/icons?i=python" />
+    </td>
+  </tr>
   
  </tbody>
 </table>
