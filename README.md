@@ -177,6 +177,15 @@ Currently im learning **AI development** and **Big Data**, always looking for ne
     </td>
     <td><img alt="Language" src="https://skillicons.dev/icons?i=python,azure,mongo" /></td>
   </tr>
+  <tr align="center">
+    <td>
+      <a href="https://github.com/Rogudev/kmeans-js_library_interactive_demo" target="_blank"><b>K-means algorithm in JS</b></a>
+    </td>
+    <td>
+      <a href="https://kmeans-js-library-interactive-demo.onrender.com/" target="_blank"><b>✅</b></a>
+    </td>
+    <td><img alt="Language" src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery,nodejs" /></td>
+  </tr>
  </tbody>
 </table>
 
