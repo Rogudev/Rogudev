@@ -186,6 +186,15 @@ Currently im learning **AI development** and **Big Data**, always looking for ne
     </td>
     <td><img alt="Language" src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery,nodejs" /></td>
   </tr>
+    <tr align="center">
+    <td>
+      <a href="https://github.com/Rogudev/Classificator_model_demo" target="_blank"><b>AI model - Whiskeys classifier</b></a>
+    </td>
+    <td>
+      <a href="https://huggingface.co/spaces/Rogudev/Whiskey_classificator_demo" target="_blank"><b>✅</b></a>
+    </td>
+    <td><img alt="Language" src="https://skillicons.dev/icons?i=python" /></td>
+  </tr>
  </tbody>
 </table>
 
