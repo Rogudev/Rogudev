@@ -1,6 +1,6 @@
 # Hello there, I'm Rodrigo
 
-<img src="https://github.com/Rogudev/Rogudev/blob/main/banner.svg"/>
+<img src="https://github.com/Rogudev/Rogudev/blob/main/banner.jpeg"/>
 
 <hr>
 
